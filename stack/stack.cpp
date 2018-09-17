@@ -47,7 +47,7 @@ int main(void)
     printf("\n5. Number element of Stack ?");
     printf("\n6. Search an element ?");
     printf("\n7. Destroy Stack and EXIT ?");
-    printf("\n8. Count all element of Stack ?");
+    printf("\n8. Sum all element of Stack ?");
     printf("\n9. is Stack empty ?");
     printf("\n9. is Stack full ??????????");
     printf("\n\nEnter your choice: ");
